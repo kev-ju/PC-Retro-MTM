@@ -1,0 +1,143 @@
+(footprint "PIN_ARRAY_4x1"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Double rangee de contacts 2 x 5 pins")
+	(tags "CONN")
+	(property "Reference" "REF**"
+		(at 9.525 0 0)
+		(layer "F.SilkS")
+		(uuid "6fcdda69-f6e1-4872-abb9-40de3d1bb666")
+		(effects
+			(font
+				(size 2.032 1.778)
+				(thickness 0.3048)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "CONN_4"
+		(at 0 2.54 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0fe710f1-fde8-4465-ad3a-b9d7e7e7aaae")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.2032)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fe657411-7060-484e-ac4b-50c42bd6fd7a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "97e59585-64f4-46b0-a494-98c2aa114abf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5.08 -1.27)
+		(end -5.08 1.27)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "be577b59-dd9e-4271-8bc3-54e7f5a23078")
+	)
+	(fp_line
+		(start 5.08 -1.27)
+		(end -5.08 -1.27)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "85c447d5-2cd8-4651-9b78-f0828cca7786")
+	)
+	(fp_line
+		(start 5.08 1.27)
+		(end -5.08 1.27)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f0678fb8-67f1-452f-aded-d8d91f4cfa6e")
+	)
+	(fp_line
+		(start 5.08 1.27)
+		(end 5.08 -1.27)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "548949cc-5d61-4e11-bc4f-1b998b0e521a")
+	)
+	(pad "1" thru_hole roundrect
+		(at -3.81 0)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1640419948)
+		(thermal_bridge_angle 45)
+		(uuid "37a47425-9966-471a-b140-aff1040a82c0")
+	)
+	(pad "2" thru_hole circle
+		(at -1.27 0)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "83344bcb-b1b1-44eb-8143-f67257306bb8")
+	)
+	(pad "3" thru_hole circle
+		(at 1.27 0)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "73cc5ab2-abe3-4ad3-8c8a-2838ef78e71f")
+	)
+	(pad "4" thru_hole circle
+		(at 3.81 0)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b71c7df0-fda6-49bd-a77e-562fb9e5c69d")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
+		(offset
+			(xyz 3.81 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)

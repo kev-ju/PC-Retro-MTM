@@ -1,0 +1,125 @@
+(footprint "R5"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Resistance 5 pas")
+	(tags "R")
+	(property "Reference" "REF**"
+		(at 7.62 0 0)
+		(layer "F.SilkS")
+		(uuid "efafd4ed-f60e-44fc-a95c-6714c0fb3bc9")
+		(effects
+			(font
+				(size 2.032 1.778)
+				(thickness 0.3048)
+				(bold yes)
+			)
+			(justify left)
+		)
+	)
+	(property "Value" "1MEG"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "88ed24a3-3840-4ada-8835-297349512399")
+		(effects
+			(font
+				(size 1.397 1.27)
+				(thickness 0.2032)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "68726473-4d38-4dca-8227-30f50f736f5e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "19daa72f-7355-4bb6-b4e1-26289a3cea3f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.826 -1.27)
+		(end 4.826 -1.27)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a0cdeba5-a782-4aa1-8c13-af0297296382")
+	)
+	(fp_line
+		(start -4.826 1.27)
+		(end -4.826 -1.27)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "176b1dca-79f6-4885-90be-e744303124f5")
+	)
+	(fp_line
+		(start 4.826 -1.27)
+		(end 4.826 1.27)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6c39f018-ebdc-4c25-9c36-513f02327e97")
+	)
+	(fp_line
+		(start 4.826 1.27)
+		(end -4.826 1.27)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9c82f3be-3b83-46b0-8b52-824670fe21f1")
+	)
+	(pad "1" thru_hole circle
+		(at -6.35 0)
+		(size 1.524 1.524)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "240c368b-b334-495f-8759-0771930a0d1c")
+	)
+	(pad "2" thru_hole circle
+		(at 6.35 0)
+		(size 1.524 1.524)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "04dcb330-bcca-4ee9-946c-761960d83ee2")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal.step"
+		(offset
+			(xyz -6.35 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

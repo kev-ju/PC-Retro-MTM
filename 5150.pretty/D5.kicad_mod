@@ -1,0 +1,129 @@
+(footprint "D5"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Diode 5 pas")
+	(tags "DIODE DEV")
+	(property "Reference" "REF**"
+		(at 11.557 0 0)
+		(layer "F.SilkS")
+		(uuid "44553faa-2e9a-4905-9741-63aaef185911")
+		(effects
+			(font
+				(size 2.032 1.778)
+				(thickness 0.3048)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "TYPE_FC"
+		(at 0.635 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "8d39366a-e305-4e97-825c-8be7826f2803")
+		(effects
+			(font
+				(size 1.524 1.016)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a1e27af5-8374-4c2b-badc-fee5dea89560")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ec2d793d-8f47-4f41-898f-aa1eb730b5e4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.27 0)
+		(end -5.08 0)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "48b26905-9831-41a9-83b7-a354e85e968d")
+	)
+	(fp_line
+		(start 1.27 -1.27)
+		(end 1.27 1.27)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "547a88d5-1497-4d40-9ecb-b11d0da6099b")
+	)
+	(fp_line
+		(start 5.08 0)
+		(end 1.27 0)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "45cbe800-d4b8-4eb3-9534-ae053f4bfdce")
+	)
+	(fp_poly
+		(pts
+			(xy 1.27 0) (xy -1.27 -1.524) (xy -1.27 1.524)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "2b3ff059-3203-41aa-81d4-ccb1e442ed0d")
+	)
+	(pad "1" thru_hole circle
+		(at -6.35 0)
+		(size 1.778 1.778)
+		(drill 1.143)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fba81ec0-6d33-4177-8f94-2f8bc30dac24")
+	)
+	(pad "2" thru_hole roundrect
+		(at 6.35 0)
+		(size 1.778 1.778)
+		(drill 1.143)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1406074241)
+		(thermal_bridge_angle 45)
+		(uuid "a713a587-45fc-49ee-b51b-6a45795b0635")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_5W_P12.70mm_Horizontal.step"
+		(offset
+			(xyz 6.35 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 180)
+		)
+	)
+)

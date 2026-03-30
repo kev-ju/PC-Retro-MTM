@@ -1,0 +1,143 @@
+(footprint "VC"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "6 pins DIL package, round pads")
+	(tags "DIL")
+	(property "Reference" "REF**"
+		(at 0 7.62 0)
+		(layer "F.SilkS")
+		(uuid "6eed7f30-2511-4d88-b1a1-300d21f9edbd")
+		(effects
+			(font
+				(size 2.032 1.778)
+				(thickness 0.3048)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "14.31818"
+		(at -6.35 0 270)
+		(layer "F.SilkS")
+		(uuid "0238bfe4-38c5-4550-8559-c92502162db3")
+		(effects
+			(font
+				(size 1.27 1.016)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "82d95d41-45f6-4028-94e4-4cefd0988400")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e2730188-4ac9-49f3-aab3-7b77bf5909df")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -7.62 -3.81)
+		(end 7.62 -3.81)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d84419cc-5ddf-465a-b29d-9db305162e46")
+	)
+	(fp_line
+		(start -7.62 3.81)
+		(end -7.62 -3.81)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e4e25f6a-f2f1-47ed-b0b5-167c0b3b6f78")
+	)
+	(fp_line
+		(start 7.62 -3.81)
+		(end 7.62 3.81)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "539195ec-9dce-4c69-a421-1f53cee4dec9")
+	)
+	(fp_line
+		(start 7.62 3.81)
+		(end -7.62 3.81)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "219d0bed-3f35-469a-a5c3-2c3c25e5d81f")
+	)
+	(pad "1" thru_hole roundrect
+		(at 10.16 2.54)
+		(size 1.397 1.397)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1789549034)
+		(thermal_bridge_angle 45)
+		(uuid "b560b8c0-ea3f-423c-a812-125d7017aec7")
+	)
+	(pad "2" thru_hole circle
+		(at 10.16 -2.54)
+		(size 1.397 1.397)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a5210588-89db-4e81-8a09-6363ec5e03ef")
+	)
+	(pad "3" thru_hole circle
+		(at 0 5.08)
+		(size 1.397 1.397)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "267701bc-bb07-432d-abc1-8b3d00691d58")
+	)
+	(pad "4" thru_hole circle
+		(at 0 -5.08)
+		(size 1.397 1.397)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5a362021-2360-4ba9-81f8-1a28efe3887a")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC18-U_Horizontal_1EP_style1.step"
+		(offset
+			(xyz 10.16 2.54 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)

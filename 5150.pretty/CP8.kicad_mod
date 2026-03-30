@@ -1,0 +1,125 @@
+(footprint "CP8"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Condensateur polarise")
+	(tags "CP")
+	(property "Reference" "REF**"
+		(at 14.986 0 0)
+		(layer "F.SilkS")
+		(uuid "ddf44611-9939-46a2-b831-db6f461c60c0")
+		(effects
+			(font
+				(size 2.032 1.778)
+				(thickness 0.3048)
+			)
+		)
+	)
+	(property "Value" ".047uF"
+		(at -0.635 0 0)
+		(layer "F.SilkS")
+		(uuid "a797beab-5112-4951-b3a0-1211763f83f9")
+		(effects
+			(font
+				(size 2.032 1.778)
+				(thickness 0.3048)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "84745989-037e-46a7-8a41-e49ca19fdf30")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "20f09d45-daa9-43e0-843f-8cc723722b39")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -8.255 -2.54)
+		(end 8.255 -2.54)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "63385bcb-0dee-470a-9f44-18e18a82480f")
+	)
+	(fp_line
+		(start -8.255 2.54)
+		(end -8.255 -2.54)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "63efcbc9-c030-4468-9e34-75878c24c7ec")
+	)
+	(fp_line
+		(start 8.255 -2.54)
+		(end 8.255 2.54)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "208309a2-45f2-4334-8f7f-6dea600ba335")
+	)
+	(fp_line
+		(start 8.255 2.54)
+		(end -8.255 2.54)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b23233d8-cb40-48c4-ade3-df324eab3c56")
+	)
+	(pad "1" thru_hole roundrect
+		(at -10.16 0)
+		(size 1.778 1.778)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1406074241)
+		(thermal_bridge_angle 45)
+		(uuid "8cb127f9-ed5b-4b7f-b31b-8eec925b3641")
+	)
+	(pad "2" thru_hole circle
+		(at 10.16 0)
+		(size 1.778 1.778)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "95ba23f8-b6cb-4c01-8f43-43053e54be5f")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Axial_L12.0mm_D6.5mm_P20.00mm_Horizontal.step"
+		(offset
+			(xyz -10.16 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
