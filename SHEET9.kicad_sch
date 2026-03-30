@@ -12153,7 +12153,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS74"
+		(property "Value" "74S74"
 			(at 337.82 171.323 0)
 			(effects
 				(font

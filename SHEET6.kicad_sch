@@ -21789,7 +21789,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS280"
+		(property "Value" "74S280"
 			(at 180.34 125.73 0)
 			(effects
 				(font
@@ -22399,7 +22399,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS08"
+		(property "Value" "74S08"
 			(at 102.87 107.95 0)
 			(effects
 				(font
