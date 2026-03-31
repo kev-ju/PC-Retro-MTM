@@ -28,7 +28,7 @@ I added a BOM into the KiCad schematic featuring only US-based retailers where p
 
 If TD1 had its original DIP-14 footprint restored, the [DS1000-125](https://www.questcomp.com/part/4/ds1000-125/177327912) could be used.
 
-PROMS that work with the 5150 are not common. An adapter can be used as described at [MZD](https://www.minuszerodegrees.net/5150/motherboard/IBM%205150%20motherboard%20-%20Substituting%20the%20U33%20BIOS%20ROM.htm), or U28 could possibly be changed to a 27C512 or equivalent by using A13-A15 from the ISA slots and connecting ROM_ADDR_SEL to CE and XMEMR to OE.
+EPROMS that work with the 5150 are not common. An adapter can be used as described at [MZD](https://www.minuszerodegrees.net/5150/motherboard/IBM%205150%20motherboard%20-%20Substituting%20the%20U33%20BIOS%20ROM.htm), or U28 could possibly be changed to a 27C512 or equivalent by using A13-A15 from the ISA slots and connecting ROM_ADDR_SEL to CE and XMEMR to OE.
 
 IC Socket list:
 
