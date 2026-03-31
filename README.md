@@ -30,6 +30,15 @@ If TD1 had its original DIP-14 footprint restored, the [DS1000-125](https://www.
 
 PROMS that work with the 5150 are not common. An adapter can be used as described at [MZD](https://www.minuszerodegrees.net/5150/motherboard/IBM%205150%20motherboard%20-%20Substituting%20the%20U33%20BIOS%20ROM.htm), or U28 could possibly be changed to a 27C512 or equivalent by using A13-A15 from the ISA slots and connecting ROM_ADDR_SEL to CE and XMEMR to OE.
 
+IC Socket list:
+3 x [DIP-8](https://www.digikey.com/en/products/detail/adam-tech/ICS-308-T/9829299)
+19 x [DIP-14](https://www.digikey.com/en/products/detail/adam-tech/ICS-314-T/9832866)
+51 x [DIP-16](https://www.digikey.com/en/products/detail/adam-tech/ICS-316-T/9832862)
+2 x [DIP-18](https://www.digikey.com/en/products/detail/adam-tech/ICS-318-T/9832865)
+14 x [DIP-20](https://www.digikey.com/en/products/detail/adam-tech/ICS-320-T/9832868)
+7 x [DIP-24W](https://www.digikey.com/en/products/detail/adam-tech/ICS-624-T/9832867)
+1 x [DIP-28W](https://www.digikey.com/en/products/detail/adam-tech/ICS-628-T/9832869)
+40 x [DIP-40](https://www.digikey.com/en/products/detail/adam-tech/ICS-640-T/9832863)
 
 | # | Reference | Value | Qty | Link | Note |
 |---|-----------|-------|-----|---|---|
