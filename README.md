@@ -8,7 +8,7 @@ Buy the original board (not from these files, not affiliated) [here](http://www.
 VCF [discussion](https://forum.vcfed.org/index.php?threads/pc-retro-design-files-ibm-5150-clone.1247940/)
 
 ## Notes
-mmruzek @ VCF was very kind to open-source the design files of his IBM 5150 system board clone. The project used a version of KiCad from 2012 or so, and was not immediately usable in later KiCad versions. I converted it to KiCad 9 and did enough clean-up and repair to get forward and backward annotation working without issue, along with some small edits listed below. I have not fabricated these files. Use at your own risk.
+mmruzek @ VCF was very kind to open-source the design files of his IBM 5150 system board clone. The project used a version of KiCad from 2012 or so, and was not immediately usable in later KiCad versions. I converted it to KiCad 9 and did enough clean-up and repair to get forward and backward annotation working without issue, along with some small edits listed below. I have not fabricated these files. Use at your own risk. 
 
 ## Changes
 - Fixed skewed edge cuts outline
@@ -24,7 +24,7 @@ mmruzek @ VCF was very kind to open-source the design files of his IBM 5150 syst
   
 
 ## BOM
-I added a BOM into the KiCad schematic featuring only US-based retailers where possible. I have not verified these parts, use at your own risk. It may be cheaper to buy the TTL parts direct from [ti.com](https://ti.com). Do not buy the TTL parts from China, most will be relabeled HC. 
+I added a BOM into the KiCad schematic featuring only US-based retailers where possible. I have not verified these parts, use at your own risk. It may be cheaper to buy the TTL parts direct from [ti.com](https://ti.com). Do not buy the TTL parts from China, most will be relabeled HC. The RAM and 82XX parts have numerous equivalents, sometimes with quite different part numbers. 
 
 If TD1 had its original DIP-14 footprint restored, the [DS1000-125](https://www.questcomp.com/part/4/ds1000-125/177327912) could be used.
 
