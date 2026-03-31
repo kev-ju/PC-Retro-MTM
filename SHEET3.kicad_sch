@@ -8344,7 +8344,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.questcomp.com/part/4/ds1000m-125/177328069"
 			(at 213.36 110.49 0)
 			(effects
 				(font
@@ -8353,7 +8353,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" "Ebay, or possibly use DS1100Z-100+ with an adapter PCB"
+		(property "Note" "https://www.questcomp.com/part/4/ds1000m-100/177328066 probably also works"
 			(at 213.36 110.49 0)
 			(effects
 				(font
