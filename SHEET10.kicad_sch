@@ -2478,7 +2478,7 @@
 		)
 		(uuid "4eecd755-b805-467c-a66e-e6b19d98468c")
 	)
-	(text "Kev-Ju:\nUse 47nF or 100nF 50V ceramic caps \nwith 2.5mm or 5.0mm lead spacing.\nNo polarity."
+	(text "KevJu:\nUse 47nF or 100nF 50V ceramic caps \nwith 2.5mm or 5.0mm lead spacing.\nNo polarity."
 		(exclude_from_sim no)
 		(at 161.29 198.12 0)
 		(effects
@@ -2500,7 +2500,7 @@
 		)
 		(uuid "62db322f-a9eb-4348-85bc-af5411963ed9")
 	)
-	(text "Kev-Ju:\nUse 10uF 25V tantalum caps. \nThe footprint is set up for 3-lead \nor 2-lead with 2.5mm spacing. \nCenter terminal is most posistive.\n\nDo not use 5.0mm lead space caps."
+	(text "KevJu:\nUse 10uF 25V tantalum caps. \nThe footprint is set up for 3-lead \nor 2-lead with 2.5mm spacing. \nCenter terminal is most posistive.\n\nDo not use 5.0mm lead space caps."
 		(exclude_from_sim no)
 		(at 245.11 260.35 0)
 		(effects
@@ -6576,7 +6576,7 @@
 			(xy 199.39 207.01) (xy 199.39 209.55)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type default)
 			(color 194 194 194 1)
 		)
@@ -9087,8 +9087,8 @@
 			(xy 279.4 271.78) (xy 279.4 280.67)
 		)
 		(stroke
-			(width 0)
-			(type solid)
+			(width 0.254)
+			(type default)
 			(color 194 194 194 1)
 		)
 		(uuid "4e6010d2-72a5-4221-8c7e-a74e1afa9322")
@@ -9218,7 +9218,7 @@
 			(xy 193.04 207.01) (xy 193.04 209.55)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type default)
 			(color 194 194 194 1)
 		)
@@ -10019,7 +10019,7 @@
 			(xy 166.37 215.9) (xy 166.37 210.82)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type default)
 			(color 194 194 194 1)
 		)
@@ -10150,7 +10150,7 @@
 			(xy 190.5 210.82) (xy 191.77 210.82)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type default)
 			(color 194 194 194 1)
 		)
@@ -10171,7 +10171,7 @@
 			(xy 160.02 210.82) (xy 161.29 209.55)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type default)
 			(color 194 194 194 1)
 		)
@@ -10432,8 +10432,8 @@
 			(xy 234.95 274.32) (xy 234.95 280.67)
 		)
 		(stroke
-			(width 0)
-			(type solid)
+			(width 0.254)
+			(type default)
 			(color 194 194 194 1)
 		)
 		(uuid "6f09559a-5e8a-4ffb-a98a-6117c73b6838")
@@ -10723,8 +10723,8 @@
 			(xy 254 274.32) (xy 254 280.67)
 		)
 		(stroke
-			(width 0)
-			(type solid)
+			(width 0.254)
+			(type default)
 			(color 194 194 194 1)
 		)
 		(uuid "7443fb8a-0bfa-4378-8907-acc0bcdc22f7")
@@ -11544,7 +11544,7 @@
 			(xy 160.02 215.9) (xy 160.02 210.82)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type default)
 			(color 194 194 194 1)
 		)
@@ -11655,8 +11655,8 @@
 			(xy 260.35 274.32) (xy 260.35 280.67)
 		)
 		(stroke
-			(width 0)
-			(type solid)
+			(width 0.254)
+			(type default)
 			(color 194 194 194 1)
 		)
 		(uuid "8dca5c33-a4a9-46c8-a892-d10e51c95a5b")
@@ -11876,8 +11876,8 @@
 			(xy 285.75 275.59) (xy 285.75 280.67)
 		)
 		(stroke
-			(width 0)
-			(type solid)
+			(width 0.254)
+			(type default)
 			(color 194 194 194 1)
 		)
 		(uuid "940a7f84-800c-4b35-88f0-0d3ee1078d32")
@@ -12557,7 +12557,7 @@
 			(xy 200.66 210.82) (xy 199.39 209.55)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type default)
 			(color 194 194 194 1)
 		)
@@ -12928,7 +12928,7 @@
 			(xy 165.1 209.55) (xy 166.37 210.82)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type default)
 			(color 194 194 194 1)
 		)
@@ -13169,7 +13169,7 @@
 			(xy 191.77 210.82) (xy 193.04 209.55)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type default)
 			(color 194 194 194 1)
 		)
@@ -13910,7 +13910,7 @@
 			(xy 203.2 212.09) (xy 203.2 215.9)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type default)
 			(color 194 194 194 1)
 		)
@@ -14031,7 +14031,7 @@
 			(xy 203.2 212.09) (xy 201.93 210.82)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type default)
 			(color 194 194 194 1)
 		)
@@ -14152,8 +14152,8 @@
 			(xy 292.1 271.78) (xy 292.1 280.67)
 		)
 		(stroke
-			(width 0)
-			(type solid)
+			(width 0.254)
+			(type default)
 			(color 194 194 194 1)
 		)
 		(uuid "cb852835-89c2-42db-99d7-77e44869bb3b")
@@ -15203,8 +15203,8 @@
 			(xy 241.3 274.32) (xy 241.3 280.67)
 		)
 		(stroke
-			(width 0)
-			(type solid)
+			(width 0.254)
+			(type default)
 			(color 194 194 194 1)
 		)
 		(uuid "e390f611-32e9-4ce4-bd55-9ffbd1850aaa")
@@ -15434,7 +15434,7 @@
 			(xy 189.23 212.09) (xy 190.5 210.82)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type default)
 			(color 194 194 194 1)
 		)
@@ -15595,7 +15595,7 @@
 			(xy 189.23 212.09) (xy 189.23 215.9)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type default)
 			(color 194 194 194 1)
 		)
@@ -15636,7 +15636,7 @@
 			(xy 201.93 210.82) (xy 200.66 210.82)
 		)
 		(stroke
-			(width 0)
+			(width 0.254)
 			(type default)
 			(color 194 194 194 1)
 		)
