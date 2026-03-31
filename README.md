@@ -22,9 +22,11 @@ mmruzek @ VCF was very kind to open-source the design files of his IBM 5150 syst
   
 
 ## BOM
-I added a BOM into the KiCad schematic featuring only US based retailers where possible. It may be cheaper to buy the TTL parts direct from TI. Do not buy the TTL parts from China, most will be relabeled HC. 
+I added a BOM into the KiCad schematic featuring only US-based retailers where possible. I have not verified these parts, use at your own risk. It may be cheaper to buy the TTL parts direct from [ti.com](https://ti.com). Do not buy the TTL parts from China, most will be relabeled HC. 
 
 If TD1 had its original DIP-14 footprint restored, the [DS1000-125](https://www.questcomp.com/part/4/ds1000-125/177327912) could be used.
+
+PROMS that work with the 5150 are not common. An adapter can be used as described in the minuszerodegrees page, or U28 could possibly be changed to a 27C512 or equivalent by using A13-A15 from the ISA slots and connecting ROM_ADDR_SEL to CE and XMEMR to OE.
 
 
 | # | Reference | Value | Qty | Link | Note |
@@ -78,7 +80,7 @@ If TD1 had its original DIP-14 footprint restored, the [DS1000-125](https://www.
 | 49 | U34 | 8253-5 | 1 | https://www.jameco.com/z/P8253-Intel-Corporation-Programmable-Interval-Timer-3-Independent-16-bit-Counters-2-6-MHz-DIP-24_52679.html | |
 | 50 | U35 | 8237A | 1 | https://www.jameco.com/z/P8237A-5-NEC-Corporation-Multimode-DMA-Controller-4-Channel-5-MHz-DIP-40_2394975.html | |
 | 51 | U36 | 8255A-5 | 1 | https://www.jameco.com/z/P8255A-5-Intel-Corporation-IC-8255A-5-Programmable-Peripheral-Interface-40-pin-DIP_52732.html | |
-| 52 | U37, U38, ... U93 | RAM_64K_X_1 | 36 | https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html | |
+| 52 | U37, U38, U39, U40, U41, U42, U43, U44, U45, U53, U54, U55, U56, U57, U58, U59, U60, U61, U69, U70, U71, U72, U73, U74, U75, U76, U77, U85, U86, U87, U88, U89, U90, U91, U92 | RAM_64K_X_1 | 36 | https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html | |
 | 53 | U46, U47, U48, U66 | 74LS138 | 4 | https://www.digikey.com/en/products/detail/texas-instruments/SN74LS138N/277285 | |
 | 54 | U49, U97 | 74S08 | 2 | https://www.digikey.com/en/products/detail/texas-instruments/SN74S08N/277371 | |
 | 55 | U51, U83, U99 | 74LS04 | 3 | https://www.digikey.com/en/products/detail/texas-instruments/SN74LS04N/277275 | |
