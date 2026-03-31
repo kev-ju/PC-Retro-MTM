@@ -5948,10 +5948,6 @@
 		(uuid "2bcd149f-c406-4a6b-8903-8c886663b3bd")
 	)
 	(no_connect
-		(at 222.25 237.49)
-		(uuid "3d6a88d0-a99b-4b3b-b03f-262ef678a343")
-	)
-	(no_connect
 		(at 256.54 151.13)
 		(uuid "d4459abd-5e87-4aab-935c-6b8c7f55f7dc")
 	)
@@ -7903,6 +7899,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.jameco.com/z/P8253-Intel-Corporation-Programmable-Interval-Timer-3-Independent-16-bit-Counters-2-6-MHz-DIP-24_52679.html"
+			(at 129.54 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 129.54 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "42698928-081e-4e42-8ad2-868db85efe99")
 		)
@@ -8035,6 +8049,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS175N/277294"
+			(at 81.28 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 81.28 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "5800273f-5cc8-4c7f-9b1e-a8cc50be1a28")
 		)
@@ -8161,6 +8193,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS74AN/277314"
+			(at 196.85 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 196.85 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "cc4a4f53-2e7f-4ac2-817c-353afa6da560")
 		)
@@ -8261,6 +8311,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS38N/277310"
+			(at 176.53 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 176.53 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "6"
@@ -8365,6 +8433,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS38N/277310"
+			(at 176.53 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 176.53 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "36f33178-e4f4-47b5-b2f3-ce5dede8b41e")
 		)
@@ -8465,6 +8551,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS38N/277310"
+			(at 176.53 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 176.53 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "8"
@@ -8569,6 +8673,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/LM741CN-NOPB/6322"
+			(at 127 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 127 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "1de9055e-0c78-4c9e-9fb1-97086655aaa3")
 		)
@@ -8610,7 +8732,7 @@
 				)
 			)
 		)
-		(property "Value" "4_PIN_BERG_2X2_STRIP"
+		(property "Value" "2x2"
 			(at 217.17 227.33 0)
 			(effects
 				(font
@@ -8642,6 +8764,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/adam-tech/PH2-04-UA/9830324"
+			(at 217.17 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 217.17 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8688,7 +8828,7 @@
 				)
 			)
 		)
-		(property "Value" "CONN_4"
+		(property "Value" "1x4"
 			(at 359.41 118.11 0)
 			(effects
 				(font
@@ -8720,6 +8860,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/adam-tech/PH1RB-04-UA/9830473"
+			(at 359.41 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 359.41 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -8792,6 +8950,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/kycon-inc/KCDX-5S-N/10246509"
+			(at 368.3 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 368.3 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8867,6 +9043,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/G5V-2-DC5/87819"
+			(at 246.38 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 246.38 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "9"
@@ -8951,6 +9145,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN75477P/380178"
+			(at 245.11 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 245.11 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9362,6 +9574,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/MFR-25FTF52-4K7/9140940"
+			(at 195.58 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 195.58 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8b8e4c35-3cbe-4152-8436-79d4801ff83a")
 		)
@@ -9426,6 +9656,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/MFR-25FTE52-3K9/9140156"
+			(at 195.58 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 195.58 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9494,6 +9742,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/MFR-25FBF52-1K2/9138061"
+			(at 195.58 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 195.58 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4eb7709c-cc8b-4482-8ebc-7d33387a10db")
 		)
@@ -9558,6 +9824,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/MFR-25FBF52-150R/12831"
+			(at 195.58 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 195.58 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -9628,6 +9912,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MKT1813310405/5378151"
+			(at 233.68 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 233.68 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bf894ee0-537d-45b1-9bba-865bf6b228b4")
 		)
@@ -9694,6 +9996,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MKT1813310405/5378151"
+			(at 297.18 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 297.18 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -9764,6 +10084,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/cornell-dubilier-knowles/150473K250BB/2538235"
+			(at 82.55 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 82.55 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bd34a759-2173-41f0-9f82-afa5bcff8111")
 		)
@@ -9828,6 +10166,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/MFR-25FTE52-18K/9139828"
+			(at 101.6 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 101.6 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9896,6 +10252,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/MFR-25FTE52-18K/9139828"
+			(at 114.3 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 114.3 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "76407e40-3b3c-4253-8031-1d41380fbd26")
 		)
@@ -9960,6 +10334,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/MFR-25FTE52-18K/9139828"
+			(at 149.86 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 149.86 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10028,6 +10420,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/MFR-25FTE52-1M/9139874"
+			(at 133.35 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 133.35 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ac749e7e-4d47-46d9-84d9-847db9607fe3")
 		)
@@ -10092,6 +10502,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/MFR-25FTE52-18K/9139828"
+			(at 101.6 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 101.6 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10160,6 +10588,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/onsemi/1N4148/458603"
+			(at 149.86 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 149.86 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c42c832f-9d86-4e05-baf0-a06ad62dbb4d")
 		)
@@ -10224,6 +10670,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/MFR50SFTE52-33R/9151419"
+			(at 316.23 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" "1/2 watt"
+			(at 316.23 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11196,6 +11660,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/bourns-inc/4116R-2-472LF/1088687"
+			(at 194.31 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 194.31 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "1b3d8955-3d1f-4dc9-af0c-295d37ea35ea")
 		)
@@ -11366,6 +11848,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/bourns-inc/4116R-2-472LF/1088687"
+			(at 198.12 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 198.12 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "6"
@@ -11540,6 +12040,24 @@
 				)
 			)
 		)
+		(property "Link" ""
+			(at 353.06 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 353.06 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "64_256KB_SYSTEM_BOARD_rev1_2a"
 				(path "/ffb78059-63fa-45cd-a294-8a8ac410347f/00000000-0000-0000-0000-00004ee2975c"
@@ -11662,6 +12180,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS04N/277275"
+			(at 208.28 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 208.28 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "14"

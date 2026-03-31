@@ -4721,7 +4721,7 @@
 		)
 		(uuid "180e045d-16a8-4b53-994b-3178aea7d877")
 	)
-	(text "KevJu:\nTODO - consider tying pin 1 of \nthe RAMs to a rail in order to be able to\nuse 256k RAMs (still only 64k usable)"
+	(text "KevJu:\nTODO - consider tying pin 1 of \nthe RAMs to a rail in order to be able to\nuse 256k RAMs (still only 64k usable)\nsince they are usually cheaper than \n64k RAMs"
 		(exclude_from_sim no)
 		(at 256.54 146.05 0)
 		(effects
@@ -19321,6 +19321,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS245N/277301"
+			(at 57.15 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 57.15 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "cf35d551-8b3e-4a3c-b725-6d87127e5383")
 		)
@@ -19441,6 +19459,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS158N/1594759"
+			(at 71.12 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 71.12 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "c9e968b3-4fef-404e-8147-092bd5e764e4")
 		)
@@ -19547,6 +19583,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS158N/1594759"
+			(at 71.12 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 71.12 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -19657,6 +19711,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/bourns-inc/4116R-1-330LF/1088635"
+			(at 114.3 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" "33 Ohm will work fine here"
+			(at 114.3 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3fc4e7ff-9e11-4cc2-b5c3-3feb7675c123")
 		)
@@ -19765,6 +19837,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/yageo/MFR-25FTE52-30R/9140087"
+			(at 114.3 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 114.3 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a65d970c-fcd7-4d5a-8645-0d3630fb9bd4")
 		)
@@ -19829,6 +19919,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS74AN/277314"
+			(at 104.14 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 104.14 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "14"
@@ -19931,6 +20039,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 173.99 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 173.99 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "11"
@@ -20038,6 +20164,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 201.93 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 201.93 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "105183f3-4670-424f-9de3-3c466c7cef63")
 		)
@@ -20141,6 +20285,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 259.08 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 259.08 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "10"
@@ -20248,6 +20410,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 231.14 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 231.14 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "a4c918df-889b-4dc3-9be8-67598cb680ab")
 		)
@@ -20351,6 +20531,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 345.44 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 345.44 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "6"
@@ -20458,6 +20656,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 373.38 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 373.38 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "268fb57c-9850-4ba0-a162-eaa558d0c222")
 		)
@@ -20561,6 +20777,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 316.23 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 316.23 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "9"
@@ -20668,6 +20902,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 288.29 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 288.29 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "ce639c31-6f99-4011-a41f-d3ef9409f650")
 		)
@@ -20771,6 +21023,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 402.59 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 402.59 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "12"
@@ -20878,6 +21148,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 402.59 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 402.59 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "16"
 			(uuid "dd22d4d2-d4c1-42aa-bce1-75d42a972793")
 		)
@@ -20981,6 +21269,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 288.29 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 288.29 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "7"
@@ -21088,6 +21394,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 316.23 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 316.23 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "9c81b7e2-6413-4a96-84cb-baba4932844a")
 		)
@@ -21191,6 +21515,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 373.38 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 373.38 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "9"
@@ -21298,6 +21640,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 345.44 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 345.44 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "be65f917-d0df-434a-8313-d9ac1575cbd7")
 		)
@@ -21401,6 +21761,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 231.14 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 231.14 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "13"
@@ -21508,6 +21886,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 259.08 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 259.08 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "b7dd90ba-28fa-4d50-90cf-0563b55cff31")
 		)
@@ -21611,6 +22007,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 201.93 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 201.93 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "9"
@@ -21718,6 +22132,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.jameco.com/z/KM4164B-12-Samsung-Electronics-IC-4164-120-NMOS-DRAM-64K-Bit-64K-x-1-120ns-w-Page-Mode_2290535.html"
+			(at 173.99 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 173.99 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "d08b02bc-e974-4b6c-a4d8-19d2786fe05a")
 		)
@@ -21823,6 +22255,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.jameco.com/z/DM74S280N-National-Semiconductor-9-Bit-Parity-Generator-Checker-IC-DIP-14_48688.html"
+			(at 180.34 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" "*** Investigate replacing this"
+			(at 180.34 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc072369-dcd2-40db-ad44-1ec8fdef973c")
 		)
@@ -21920,6 +22370,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS04N/277275"
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "14"
@@ -22024,6 +22492,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS04N/277275"
+			(at 73.66 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 73.66 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "b98d8edd-ac2f-49ce-9cac-d541f9599521")
 		)
@@ -22126,6 +22612,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS04N/277275"
+			(at 73.66 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 73.66 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "67cfc30f-1f3c-4b79-9a51-bd6ac21b5cda")
 		)
@@ -22226,6 +22730,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS04N/277275"
+			(at 71.12 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 71.12 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "13"
@@ -22331,6 +22853,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS02N/277273"
+			(at 71.12 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 71.12 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9ea7348f-457a-4a45-a66e-e90678fb1a40")
 		)
@@ -22431,6 +22971,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74S08N/277371"
+			(at 102.87 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 102.87 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -22536,6 +23094,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS125AN/277284"
+			(at 240.03 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 240.03 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "11"

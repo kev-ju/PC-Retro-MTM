@@ -1001,6 +1001,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS32N/277304"
+			(at 96.52 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 96.52 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "02d14ba8-8ce6-417f-bfe2-917d54abc68d")
 		)
@@ -1101,6 +1119,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS32N/277304"
+			(at 96.52 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 96.52 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "5"
@@ -1205,6 +1241,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS32N/277304"
+			(at 97.79 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 97.79 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "f3a90b34-cf3e-4140-8995-6da32e4fd254")
 		)
@@ -1305,6 +1359,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS32N/277304"
+			(at 97.79 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 97.79 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "6"

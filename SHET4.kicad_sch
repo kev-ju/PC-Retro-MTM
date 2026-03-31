@@ -8635,6 +8635,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.jameco.com/z/P8237A-5-NEC-Corporation-Multimode-DMA-Controller-4-Channel-5-MHz-DIP-40_2394975.html"
+			(at 95.25 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 95.25 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "1fd4ba9f-197d-491e-93a0-4f82662bd554")
 		)
@@ -8816,6 +8834,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS244N/277299"
+			(at 266.7 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 266.7 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "20"
 			(uuid "667250be-c3d0-4c5f-8e57-5391a9410457")
 		)
@@ -8902,7 +8938,7 @@
 				)
 			)
 		)
-		(property "Value" "LS670"
+		(property "Value" "74LS670"
 			(at 266.7 139.7 0)
 			(effects
 				(font
@@ -8934,6 +8970,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS670N/1594880"
+			(at 266.7 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 266.7 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "6"
@@ -9042,6 +9096,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS373N/277306"
+			(at 266.7 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 266.7 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "12"
@@ -9164,6 +9236,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS04N/277275"
+			(at 266.7 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 266.7 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "9ec12a62-b310-43a3-9c71-7a44ebdd7055")
 		)
@@ -9264,6 +9354,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS04N/277275"
+			(at 266.7 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 266.7 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -9497,6 +9605,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/bourns-inc/4116R-2-472LF/1088687"
+			(at 218.44 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 218.44 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "16"
 			(uuid "7871d221-f1f4-4d7f-86eb-360bd3ea53a1")
 		)
@@ -9603,6 +9729,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/bourns-inc/4116R-2-472LF/1088687"
+			(at 224.79 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 224.79 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "11"
@@ -9713,6 +9857,24 @@
 				)
 			)
 		)
+		(property "Link" "https://www.digikey.com/en/products/detail/bourns-inc/4116R-2-472LF/1088687"
+			(at 229.87 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 229.87 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "07b8654a-f710-4133-8224-9ba3df9b643e")
 		)
@@ -9819,6 +9981,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Link" "https://www.digikey.com/en/products/detail/texas-instruments/SN74LS04N/277275"
+			(at 323.85 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" ""
+			(at 323.85 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "7"
