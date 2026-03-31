@@ -1,3 +1,5 @@
+ ![PC-Retro-MTM](/64_256KB_SYSTEM_BOARD.png)
+
 # PC-Retro-MTM
 Modern KiCad version of the IBM 5150 system board clone originally created by MTM Scientific, Inc.
 
